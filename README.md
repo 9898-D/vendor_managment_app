@@ -71,7 +71,7 @@ Purchase Order Management: Manage purchase orders through the API.
 Vendor Performance: Evaluate vendor performance using the provided endpoint.
 
 
-**9. Import Postman Collection**
+**9. Import Postman Collection (Vendor_management.postman_collection.json)**
 
 **1.  Generate the Token**  
   >  API ENDPOINT : http://127.0.0.1:8000/api-token-auth/
